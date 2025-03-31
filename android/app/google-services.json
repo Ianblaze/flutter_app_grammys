@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630516233278",
+    "project_id": "grammysapp",
+    "storage_bucket": "grammysapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630516233278:android:3ad57ab31af6936a4b4d6f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_grammys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1yprjDbhRla-2_9LTmcmiTsEvtwcOKGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
